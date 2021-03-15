@@ -1,3 +1,10 @@
 build/
 /tags
 /bazel-*
+
+# Piggelin
+**/bin/*
+bin-int/
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
